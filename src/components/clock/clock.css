@@ -1,0 +1,32 @@
+.container{
+    text-align:center;    
+}
+h1 {
+    font-weight: bolder;
+}
+h2 {
+    margin-top:0;
+    margin-bottom:0;
+    font-size: 2.5rem
+}
+.container-buttons{
+    text-align:center
+}
+.clock-strap{
+    margin:20px 0 ;
+    background-color:#666;    
+    padding:20px;
+}
+.clock-container{
+    background-color:#DDD;
+    padding:20px;
+}
+.clock{
+    background-color:#212529;    
+    color:#D8DCE8;    
+}
+button{
+    cursor: pointer;
+    font-size: 1.5rem;
+    margin: 6px 6px;
+}

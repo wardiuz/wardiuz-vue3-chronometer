@@ -1,6 +1,7 @@
 # 01-fundamentos
 
 This template should help get you started developing with Vue 3 in Vite.
+To see the running code enter the following link: https://wardiuz-vue3-chronometer.vercel.app/
 
 ## Recommended IDE Setup
 
